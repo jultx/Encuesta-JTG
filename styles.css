@@ -114,7 +114,7 @@ textarea:required {
 input:focus, 
 select:focus, 
 textarea:focus {
-    border-color: #4CAF50;
+    border-color: #e626e9;
     outline: none;
 }
 
